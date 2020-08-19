@@ -1,0 +1,12 @@
+p strong {
+    color: cadetblue;
+    font-family: Verdana;
+}
+
+.fontlarge {
+    font-size: small;
+}
+
+.fontblue {
+    color: chocolate;
+}
